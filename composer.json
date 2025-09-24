@@ -1,0 +1,13 @@
+{
+    "name": "yii2-rms/skeleton",
+    "description": "Yii2 Recruitment Management System - Skeleton",
+    "require": {
+        "php": ">=8.0",
+        "yiisoft/yii2": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": ""
+        }
+    }
+}
